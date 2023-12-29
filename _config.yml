@@ -3,7 +3,7 @@ title: Eventually
 email: youremailaddress@gmail.com
 description: A simple template for telling the world when you'll launch your next big thing. Brought to you by HTML5 UP.
 baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://gh-pages.github.io" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
@@ -15,7 +15,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/filipcastle
 
 # Build settings
 markdown: kramdown
